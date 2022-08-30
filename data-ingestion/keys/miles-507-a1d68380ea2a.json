@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "miles-507",
+  "private_key_id": "a1d68380ea2a4bb135046ac181dc0d1bf7727a2e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClV0rsstAex6qZ\ncxr7HFTUjrMw6Nq+y2VMseWNgw9UiQKMY9xBex5MPdHF0dri6U3ET3rciI3zsNv8\n06Ti/IYeFfOaHUdvTwE295LsvlqBF31aH+V6R1KkLbmaSTuI2cFO1ErnuNPqepl5\nONAoFSdozLSTeRlcFu0g/l4WqDAlUQX0LlJ9Gacbktk+rzc5VNvQxpI+XC/9TThx\nWvUSX+REkdOkWYXoonrc1bgwQoDHDKNCdNdPihOQs3BYFKnrv9FkauUyMovk0N3X\n84hVpQND8K/Dw+12lRXWzCGq0JrTKRF/4/2otZw7p+CtpK8gFnr/p4JsVYqEecvi\npmupBxXnAgMBAAECggEADUoIXCD9KFQtCptdUkyTJuh3T5mPp2EqubDcvfSIQWen\nvEf0dpDiPQeE+kzlNnLBDOPEgMA7BJi0/cu3B4V7dCSYiU0MJk6nzta0SPH9zT1p\nllpU8/CSnF6Oee+j6NpztpXKlXheFA0Zk8w0stwMaFh3tRi5KJUxJwM65cBL6lvJ\nN0N9vEgpLzXaZuOj3u6R/g6JKFgmVc5sAwxfOBl+BPvZQS0Z3E6uCu4K3u5NjVxu\nNah9QtFT43S2M4E5H/CQHzpdufnjoVTEROkoZUtVjWpUZNMfLikNaM4L25HBMVvU\n7w3XiXrCFnf6FWLSYI2FwhsCEsjt359xtn/6lEHiKQKBgQDP1/MrS5S4d/vM7tSZ\nGJYP5UUmG/2dCEVmAKDRlLi4nDvbsAvlq8zMFdb74g6y4gOAHwUPLyC+ZVhI4YAo\n4YjoLuSqSreruXAM0gUuk/xLkILYO3xxP/jZpGGFyN1k38Fz3wk9f5ozWhEkFffF\n14KtBUoQoxbXhdK3VUqC3f7TqQKBgQDLpleJFa0y52KUO+0MeHJaQ0zHPZhA38Fv\nFEu05zOkjQ2qJQgaGznUgoN+8wt3mPpJW6H9R60FuBJ9Wl8cW3bjxqsk2PegXxG3\nHF0L2mjXKD6i6lpj7Ihg8gYSdfShtzAyl7RNvaNpyyglIzXaXpLdt9fVq0I3CcQ/\niqDLvkCXDwKBgQDG+SGeTRjvEE5Kfkmg1tyyEvcD6L/+WTC22dsbSJkegtL7GaoK\nEVJZ/n51XJBdx+k5+nhJdQCPxU2jV93tRRxfyqS2MhlrmHcgjt7PHHTnkkzw3OHh\nOTDuimOiRA1OyLbWSqr56PKiPpMyTKWLDSnYobup+begVEjJoilW51dRIQKBgAtB\nSDk1T3suuo4Cudkklv1SFt40E0QSmbgv4PdAh+QiP40Vutrmgk2yYN4VRJ75f2uq\nestquK9GOw9efT8t9uYjxrWkoBrm5i2+jY3oJj8t5DhQx2oaWncxKRDAICMH4swJ\nAlgBkRR5u+BBj+pfq7JBRNZ0PpaYHZZ9bOGVxDAVAoGBALl9Xf8NTJrs8cZFeIjC\nDMo5sdX/ZZCbr3hbkvFL8rEB7T7/YMD5ssUsQvHApQhuPM2MPqMLpcQr1X2Oawjn\nhzKwXS4PQEKq+Nv246U3hq59KnSFGww6A/mjjwwTEPkUJ0FzSfoXOi2ABAZUux2l\nVZwyYIswHM7cxivnLltYRL4d\n-----END PRIVATE KEY-----\n",
+  "client_email": "miles-ryan-stonybrook-edu@miles-507.iam.gserviceaccount.com",
+  "client_id": "101567228798729695993",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/miles-ryan-stonybrook-edu%40miles-507.iam.gserviceaccount.com"
+}
